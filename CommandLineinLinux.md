@@ -2,8 +2,17 @@
 echo $SHELL  
 echo $home  
 pwd  
+cd Directory  
 
-File  
+cd Desktop/  
+
+cd $HOME  
+pwd
+
+go back  
+cd .. 
+
+# File  
 ls  
 ls -l  
 ls -l Directory  
